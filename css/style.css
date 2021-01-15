@@ -65,6 +65,14 @@ footer{
     background-color: rgb(245, 237, 223);
 }
 
+footer ul li{
+    list-style: none;
+}
+footer ul li a{
+    text-decoration: none;
+    color: burlywood;
+    font-weight: 500;
+}
 /* Extra end */
 
 
